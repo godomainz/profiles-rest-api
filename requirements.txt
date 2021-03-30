@@ -9,4 +9,4 @@
 # H:\Python Projects\profiles-rest-api\profiles_project\asgi.py: 12
 # H:\Python Projects\profiles-rest-api\profiles_project\urls.py: 16,17
 # H:\Python Projects\profiles-rest-api\profiles_project\wsgi.py: 12
-Django == 3.0.4
+Django == 3.0.12
